@@ -1,0 +1,16 @@
+C:\#MyProjects\C#\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\#MyProjects\C#\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\#MyProjects\C#\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\#MyProjects\C#\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\#MyProjects\C#\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\#MyProjects\C#\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\#MyProjects\C#\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\#MyProjects\C#\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\_MyProjects\C#\C-_Trading_lessons\bin\Debug\ConsoleApp.exe.config
+C:\_MyProjects\C#\C-_Trading_lessons\bin\Debug\ConsoleApp.exe
+C:\_MyProjects\C#\C-_Trading_lessons\bin\Debug\ConsoleApp.pdb
+C:\_MyProjects\C#\C-_Trading_lessons\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\_MyProjects\C#\C-_Trading_lessons\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\_MyProjects\C#\C-_Trading_lessons\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\_MyProjects\C#\C-_Trading_lessons\obj\Debug\ConsoleApp.exe
+C:\_MyProjects\C#\C-_Trading_lessons\obj\Debug\ConsoleApp.pdb
